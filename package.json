@@ -24,7 +24,7 @@
   ],
   "main": "./index.js",
   "types": "./index.d.ts",
-  "dependencies": { 
+  "dependencies": {
     "@atomist/automation-client": "^1.1.1",
     "@atomist/sdm": "^1.6.0",
     "@atomist/sdm-core": "^1.6.1",
@@ -42,7 +42,7 @@
     "@types/xml2js": "^0.4.4",
     "boxen": "^4.0.0",
     "chalk": "^2.4.2",
-    "fs-extra": "^8.0.1",
+    "fs-extra": "^7.0.1",
     "git-url-parse": "^11.1.2",
     "glob": "^7.1.4",
     "handlebars": "^4.1.2",
