@@ -6,7 +6,7 @@
     "name": "Atomist",
     "email": "support@atomist.com",
     "url": "https://atomist.com/"
-  },
+  }, 
   "license": "Apache-2.0",
   "homepage": "https://github.com/atomist/samples#readme",
   "repository": {
